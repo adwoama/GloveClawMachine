@@ -1,5 +1,5 @@
 # EdgeImpulse model
-
+https://studio.edgeimpulse.com/public/845392/live
 **Processing Blocks:**
 - IMU + Magnetometer → Spectral Features
 - Flex → Raw Data Windowing + Statistical Features
